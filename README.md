@@ -12,7 +12,7 @@ The main script that mines blogs, analyzes their content, and gives statistical 
 
 ## Human Subjects Protection
 
-I consider this to be exploratation / feasibility analysis on publicly available data prior to research and not human subjects research, so no IRB is involved.  Once this preliminary investigation is complete, a pilot project may be taken with IRB participation by the City University of New York or The Children's Hospital of Philadelphia.  Care has been taken to obscure the identity of the bloggers whose data was used to generate the analysis found here. 
+I consider this to be exploratation / feasibility analysis on publicly available data prior to research and not human subjects research, so no IRB is involved.  Once this preliminary investigation is complete, a pilot project may be taken with IRB participation by the City University of New York.  Care has been taken to obscure the identity of the bloggers whose data was used to generate the analysis found here. 
 
 ## Introduction to ASD
 
