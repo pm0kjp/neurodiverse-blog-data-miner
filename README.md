@@ -8,7 +8,7 @@ The creation of an inter-key interval (IKI) dataset and the resultant data is co
 
 Additional resources for study can be found in the [background_research](https://github.com/pm0kjp/neurodiverse-blog-data-miner/blob/master/background_research/) directory.  These are not required for replication.
 
-The main script that mines blogs, analyzes their content, and gives statistical and graphical results is in this directory, in the [Final Project.ipynb](Final%20Project.ipynb) file.  This file contains all of the code that scrapes, analyzes, and presents for visualization the data from blogs.  It references the bigram\_info.csv file located in the typing\_difficulty directory.  It also references two text files, each of which consists of a header line followed by a list of blog URLs ending with a forward slash, one per line.  You will want to generate these yourself based on your research interests. 
+The main script that mines blogs, analyzes their content, and gives statistical and graphical results is in this directory, in the [Final Project.ipynb](Final%20Project.ipynb) file.  You will want to run this in the context of a Jupyter (nee iPython) session.  The file references the bigram\_info.csv file located in the typing\_difficulty directory.  It also references two text files, each of which consists of a header line followed by a list of blog URLs ending with a forward slash, one per line.  You will want to generate these yourself based on your research interests. 
 
 ## Human Subjects Protection
 
