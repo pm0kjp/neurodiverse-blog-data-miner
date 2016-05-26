@@ -2,13 +2,13 @@
 
 This project was completed in partial fulfillment of the requirements of IS 602, Advanced Programming Techniques, a course in the Data Analytics MS at the City University of New York.
 
-## Contents of this Repository
+## Contents of this Repository & Replication Instructions
 
-The creation of an inter-key interval (IKI) dataset and the resultant data is contained in the [typing_difficulty] (https://github.com/pm0kjp/neurodiverse-blog-data-miner/tree/master/typing_difficulty) directory.
+The creation of an inter-key interval (IKI) dataset and the resultant data is contained in the [typing_difficulty] (https://github.com/pm0kjp/neurodiverse-blog-data-miner/tree/master/typing_difficulty) directory.  To replicate this study while relying on the keystroke data I used, all you will need to do here is download the bigram_info.csv file to a directory in which you will host the python scripts you use.  To instead use your own or others' keystroke data, you will want to use the Compiling Keystroke Data.ipynb notebook as a guide.  
 
-Additional resources for study can be found in the [background_research](https://github.com/pm0kjp/neurodiverse-blog-data-miner/blob/master/background_research/) directory.
+Additional resources for study can be found in the [background_research](https://github.com/pm0kjp/neurodiverse-blog-data-miner/blob/master/background_research/) directory.  These are not required for replication.
 
-The main script that mines blogs, analyzes their content, and gives statistical and graphical results is in this directory, in the [Final Project.ipynb](Final%20Project.ipynb) file.
+The main script that mines blogs, analyzes their content, and gives statistical and graphical results is in this directory, in the [Final Project.ipynb](Final%20Project.ipynb) file.  This file contains all of the code that scrapes, analyzes, and presents for visualization the data from blogs.  It references the bigram\_info.csv file located in the typing\_difficulty directory.  It also references two text files, each of which consists of a header line followed by a list of blog URLs ending with a forward slash, one per line.  You will want to generate these yourself based on your research interests. 
 
 ## Human Subjects Protection
 
